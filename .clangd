@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -std=c++17
+    - -Ithird_party
+    - -Wall
+    - -Wextra
+

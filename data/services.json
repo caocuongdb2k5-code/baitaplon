@@ -1,0 +1,26 @@
+[
+    {
+        "category": "LAUNDRY",
+        "name": "Giat ui",
+        "serviceId": "S01",
+        "unitPrice": 50000.0
+    },
+    {
+        "category": "FOOD",
+        "name": "An sang",
+        "serviceId": "S02",
+        "unitPrice": 80000.0
+    },
+    {
+        "category": "FOOD",
+        "name": "Nuoc suoi",
+        "serviceId": "S03",
+        "unitPrice": 15000.0
+    },
+    {
+        "category": "FOOD",
+        "name": "Bua toi",
+        "serviceId": "S04",
+        "unitPrice": 150000.0
+    }
+]
